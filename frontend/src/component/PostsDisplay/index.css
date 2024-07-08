@@ -1,0 +1,25 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+html{font-size: 16px;}
+
+@media(min-width: 576px) {
+
+    .PostMainCl{width: 100vw; min-height: 100vh; display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: 1fr;
+         gap: 10px; 
+        padding: 20px;
+        /* border: 1px solid black; */
+
+         border: 1px solid white;
+        background-color: black;
+        backdrop-filter: blur(6px);
+        filter: opacity(0.8);
+
+        color: white; 
+
+}
+
+}
+
+
