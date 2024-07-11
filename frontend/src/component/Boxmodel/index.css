@@ -12,6 +12,7 @@ html{font-size: 16px;}
             flex-direction: column;
             justify-content: center;
             align-items: center;
+          padding-top:10rem;
 }
 
 
